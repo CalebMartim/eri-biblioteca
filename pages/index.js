@@ -1,5 +1,5 @@
-import Head from "next/head";
-import Image from "next/image";
+// import Head from "next/head";
+// import Image from "next/image";
 import styles from "../styles/Home.module.css";
 
 export const getStaticProps = async () => {
@@ -14,13 +14,21 @@ export const getStaticProps = async () => {
 export default function Home({ livros }) {
   return (
     <>
-      <section className={styles.container}>
-        <h1>Bem vinda, Erica! 🌸 </h1>
+      <section className={styles.main}>
+        <h1 className={styles.title}>Bem vinda, Erica! 🌸 </h1>
         <h3>O que quer ler hoje?</h3>
         {livros.map((livro) => (
-          <div key={livro.id}>
-            <p>{livro.nome}</p>
-            <a href={livro.link}>Ler</a>
+          <div className={styles.card} key={livro.id}>
+            <div className={styles.cardInterior}>
+              <div>
+                <p className={styles.name}>{livro.nome}</p>
+                <p className={styles.autor}>{livro.autor}</p>
+                <p className={styles.ano}>{livro.ano}</p>
+              </div>
+              <div className={styles.botaoDiv}>
+                <a href={livro.link}>Ler</a>
+              </div>
+            </div>
           </div>
         ))}
       </section>
