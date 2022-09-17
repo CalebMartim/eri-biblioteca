@@ -3,7 +3,10 @@
 import styles from "../styles/Home.module.css";
 
 export const getStaticProps = async () => {
-  const res = await fetch("http://localhost:3000/livros.json");
+  // const res = await fetch("http://localhost:3000/livros.json");
+  const res = await fetch(
+    "https://raw.githubusercontent.com/CalebMartim/eri-biblioteca/main/public/livros.json"
+  );
   const data = await res.json();
 
   return {
