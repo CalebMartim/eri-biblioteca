@@ -1,3 +1,5 @@
+import Head from "next/head";
+
 import styles from "../styles/Home.module.css";
 
 export const getStaticProps = async () => {
@@ -14,6 +16,9 @@ export const getStaticProps = async () => {
 export default function Home({ livros }) {
   return (
     <>
+      <Head>
+        <title>🌻 Bem vinda, Erica!</title>
+      </Head>
       <section className={styles.main}>
         <h1 className={styles.title}>Bem vinda, Erica! 🌸 </h1>
         <h3>O que quer ler hoje?</h3>
