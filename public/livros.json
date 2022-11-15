@@ -43,58 +43,58 @@
   },
   {
     "id": 7,
+    "nome": "Estatística Aplica Às Ciências Sociais",
+    "autor": "Pedro Barbetta",
+    "ano": 2002,
+    "link": "https://drive.google.com/file/d/1eZMo-wyN4PDx-D4EpSBGUj6jhXoCtA2R/view?usp=share_link"
+  },
+  {
+    "id": 8,
     "nome": "I Juca Pirama",
     "autor": "Gonçalves Dias",
     "ano": 1851,
     "link": "https://drive.google.com/file/d/1XYGgcGWcYx7zPCRrnpEPlt1eNytF7vRR/view?usp=sharing"
   },
   {
-    "id": 8,
+    "id": 9,
     "nome": "Memórias Póstumas de Brás Cubas",
     "autor": "Machado de Assis",
     "ano": 1881,
     "link": "https://drive.google.com/file/d/1cOPs1GsNdEh9zDuQ2lmuWawN6qD9ed1v/view?usp=sharing"
   },
   {
-    "id": 9,
+    "id": 10,
     "nome": "Neuromancer",
     "autor": "William Gibson",
     "ano": 1984,
     "link": "https://drive.google.com/file/d/1PXv08Nds2OCxcSDsmpC37JvdL912nZFT/view?usp=sharing"
   },
   {
-    "id": 10,
+    "id": 11,
     "nome": "Noite na Taverna",
     "autor": "Álvares de Azevedo",
     "ano": 1855,
     "link": "https://drive.google.com/file/d/14sgDxdmdSq6uNiMkkEb_AUjokgEuZ5ZZ/view?usp=sharing"
   },
   {
-    "id": 11,
+    "id": 12,
     "nome": "Os Miseráveis",
     "autor": "Victor Hugo",
     "ano": 1862,
     "link": "https://drive.google.com/file/d/1wMt-8cBc7WrT9Q0so53OZ6T2OkQmLocy/view?usp=sharing"
   },
   {
-    "id": 12,
+    "id": 13,
     "nome": "Só Garotos",
     "autor": "Patti Smith",
     "ano": 2010,
     "link": "https://drive.google.com/file/d/18kXiA8NuhygOWzj3XoCy30kKSIoSMiGv/view?usp=sharing"
   },
   {
-    "id": 13,
+    "id": 14,
     "nome": "Uma Senhora Toma Chá",
     "autor": "David Salsburg",
     "ano": 2009,
     "link": "https://drive.google.com/file/d/1YgRmOWIzh-3BAiIsRBrP3Jbma-lPpqHs/view?usp=sharing"
-  },
-  {
-    "id": 14,
-    "nome": "Estatística Aplica Às Ciências Sociais",
-    "autor": "Pedro Barbetta",
-    "ano": 2002,
-    "link": "https://drive.google.com/file/d/1eZMo-wyN4PDx-D4EpSBGUj6jhXoCtA2R/view?usp=share_link"
   }
 ]
