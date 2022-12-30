@@ -15,6 +15,16 @@
   text-align: center;
 }
 
+.input{
+  margin: 1rem;
+  padding: 1rem;
+  font-size: 1rem;
+  border-radius: 10px;
+  border: 1px solid black;
+  width: 500px;
+  max-width: 500px;
+}
+
 .card {
   margin: 1rem;
   padding: 1.5rem;
