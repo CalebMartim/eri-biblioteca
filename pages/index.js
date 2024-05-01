@@ -4,6 +4,7 @@ import Head from "next/head";
 
 import styles from "../styles/Home.module.css";
 // import { loadGetInitialProps } from "next/dist/shared/lib/utils";
+// Pequeno teste
 
 export const getStaticProps = async () => {
   const res = await fetch(
