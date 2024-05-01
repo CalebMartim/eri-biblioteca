@@ -1,6 +1,14 @@
 [
   {
     "id": 1,
+    "nome": "Guia para Compreensão e Manejo do TDAH da World Federation of ADHD",
+    "espectograma": "guiaprcomensãjdthwlf",
+    "autor": "Luis Augusto Rohde",
+    "ano": 2019,
+    "link": "https://drive.google.com/file/d/1mv6MVWkV_SZH4mJ0Bew7dkxdGDWYEw6z/view?usp=sharing"
+  },
+  {
+    "id": 2,
     "nome": "A Fábrica de Cretinos Digitais",
     "espectograma": "acdfbcdeginorstá",
     "autor": "Michel Desmurget",
@@ -8,7 +16,7 @@
     "link": "https://drive.google.com/file/d/1fk-8xM7oO2zfq0E7ix33fMwWlzuuari7/"
   },
   {
-    "id": 2,
+    "id": 3,
     "nome": "A Metamorfose",
     "espectograma": "amefmorst",
     "autor": "Franz Kafka",
@@ -16,7 +24,7 @@
     "link": "https://drive.google.com/file/d/1Jbb4s4pffS5_h3qMt5gFnA-BcnrwbjHr/view?usp=sharing"
   },
   {
-    "id": 3,
+    "id": 4,
     "nome": "A Origem Das Espécies",
     "espectograma": "acdeoaegimprsé",
     "autor": "Charles Darwin",
@@ -24,7 +32,7 @@
     "link": "https://drive.google.com/file/d/1Jbb4s4pffS5_h3qMt5gFnA-BcnrwbjHr/view?usp=sharing"
   },
   {
-    "id": 4,
+    "id": 5,
     "nome": "A Ética Protestante e o Espírito do Capitalismo",
     "espectograma": "acepdilmnoprstéí",
     "autor": "Max Weber",
@@ -32,7 +40,7 @@
     "link": "https://drive.google.com/file/d/1nrxGGi4tMnVevpivHIeA8Gw0EF7nGCZ_/view?usp=sharing"
   },
   {
-    "id": 5,
+    "id": 6,
     "nome": "Apologia à Socrates",
     "espectograma": "ascegiloprstà",
     "autor": "Platão",
@@ -40,7 +48,7 @@
     "link": "https://drive.google.com/file/d/1e3y7kxOx0NFDVQ2tTUV0Ywcvz5l0r5Zg/view?usp=sharing"
   },
   {
-    "id": 6,
+    "id": 7,
     "nome": "Dom Casmurro",
     "espectograma": "cdamorsu",
     "autor": "Machado de Assis",
@@ -48,7 +56,7 @@
     "link": "https://drive.google.com/file/d/1eOvAPNNOY6Ct5X6dZAlQ6sJOEDQYE3eJ/view?usp=sharing"
   },
   {
-    "id": 7,
+    "id": 8,
     "nome": "Estatística Aplicada Às Ciências Sociais",
     "espectograma": "acdesilnopstàêí",
     "autor": "Pedro Barbetta",
@@ -56,7 +64,7 @@
     "link": "https://drive.google.com/file/d/1eZMo-wyN4PDx-D4EpSBGUj6jhXoCtA2R/view?usp=share_link"
   },
   {
-    "id": 8,
+    "id": 9,
     "nome": "I Juca Pirama",
     "espectograma": "ijpacimru",
     "autor": "Gonçalves Dias",
@@ -64,7 +72,7 @@
     "link": "https://drive.google.com/file/d/1XYGgcGWcYx7zPCRrnpEPlt1eNytF7vRR/view?usp=sharing"
   },
   {
-    "id": 9,
+    "id": 10,
     "nome": "Memórias Póstumas de Brás Cubas",
     "espectograma": "bcmpaobdeimrstuáó",
     "autor": "Machado de Assis",
@@ -72,7 +80,7 @@
     "link": "https://drive.google.com/file/d/1cOPs1GsNdEh9zDuQ2lmuWawN6qD9ed1v/view?usp=sharing"
   },
   {
-    "id": 10,
+    "id": 11,
     "nome": "Neuromancer",
     "espectograma": "nacemnoru",
     "autor": "William Gibson",
@@ -80,7 +88,7 @@
     "link": "https://drive.google.com/file/d/1PXv08Nds2OCxcSDsmpC37JvdL912nZFT/view?usp=sharing"
   },
   {
-    "id": 11,
+    "id": 12,
     "nome": "Noite na Taverna",
     "espectograma": "naeiortv",
     "autor": "Álvares de Azevedo",
@@ -88,7 +96,7 @@
     "link": "https://drive.google.com/file/d/14sgDxdmdSq6uNiMkkEb_AUjokgEuZ5ZZ/view?usp=sharing"
   },
   {
-    "id": 12,
+    "id": 13,
     "nome": "Os Miseráveis",
     "espectograma": "amoeirsvá",
     "autor": "Victor Hugo",
@@ -96,7 +104,7 @@
     "link": "https://drive.google.com/file/d/1wMt-8cBc7WrT9Q0so53OZ6T2OkQmLocy/view?usp=sharing"
   },
   {
-    "id": 13,
+    "id": 14,
     "nome": "Só Garotos",
     "espectograma": "gsaortó",
     "autor": "Patti Smith",
@@ -104,19 +112,11 @@
     "link": "https://drive.google.com/file/d/18kXiA8NuhygOWzj3XoCy30kKSIoSMiGv/view?usp=sharing"
   },
   {
-    "id": 14,
+    "id": 15,
     "nome": "Uma Senhora Toma Chá",
     "espectograma": "cstuaehmnorá",
     "autor": "David Salsburg",
     "ano": 2009,
     "link": "https://drive.google.com/file/d/1YgRmOWIzh-3BAiIsRBrP3Jbma-lPpqHs/view?usp=sharing"
-  },
-  {
-    "id": 15,
-    "nome": "Guia para Compreensão e Manejo do TDAH da World Federation of ADHD",
-    "espectograma": "guiaprcomensãjdthwlf",
-    "autor": "Luis Augusto Rohde",
-    "ano": 2019,
-    "link": "https://drive.google.com/file/d/1mv6MVWkV_SZH4mJ0Bew7dkxdGDWYEw6z/view?usp=sharing"
   }
 ]
